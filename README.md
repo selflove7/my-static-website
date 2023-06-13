@@ -1,6 +1,6 @@
 ## My Static Website
 
-Welcome to my static website repository! This repository contains the source code and files for GITHUB Static website.
+Welcome to my static website repository! This repository contains the source code and files for GITHUB Static website. This is for the blog.
 
 ### Website Link
 
